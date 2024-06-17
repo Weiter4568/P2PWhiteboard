@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "app.suhasdissa.whiteboard"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "app.suhasdissa.whiteboard"
         minSdk = 21
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
         vectorDrawables {
